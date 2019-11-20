@@ -1,0 +1,15 @@
+body{
+  background-color: #45ADA8;
+}
+.main_text {
+  text-align: center;
+  margin-top: 40%;
+  color: #E5FCC2;
+}
+.navbar {
+  background-color: #4da09c;
+}
+
+.btn-primary {
+  margin-top: 10%;
+}
